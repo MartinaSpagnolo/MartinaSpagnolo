@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="Banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="Banner.png">
+ <img alt="YOUR-ALT-TEXT" src="Banner.png">
+</picture>
+
 
 <!--
 **MartinaSpagnolo/MartinaSpagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
